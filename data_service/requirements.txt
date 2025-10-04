@@ -1,5 +1,0 @@
-earthengine-api
-requests
-pandas
-numpy
-flask
